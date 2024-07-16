@@ -1,0 +1,594 @@
+  *{
+    margin: 0px;
+  }
+
+  .sec{
+    background-color: black;
+    /* padding: 15px; */
+
+  }
+
+  .inbox{
+    color: white;
+
+    font-size: small;
+
+
+
+  }
+
+  .para1{
+    text-align: left;
+    font-size: small;
+    /* margin-top: 10%; */
+
+  }
+
+  .para2{
+    color: gray;
+    text-align: left;
+    font-size:small;
+    font-family: Corbel;
+    margin-top: 10px;
+
+     }
+
+
+
+     .para3{
+        color: gray;
+        text-align: left;
+        font-size: small;
+        font-family: Corbel;
+        /* margin-top: 10px; */
+     }
+
+     .sec1{
+      background-image: url(4rivers-smokehouse-brisket-1.jpg);
+      background-size: cover;
+      /* height: 130vh; */
+     }
+
+     .bull{
+      border: 3px double white;
+      border-radius: 50%;
+     }
+
+     .inbox3{
+      text-align: center;
+      color: aliceblue;
+      font-size: larger;
+      font-family: Corbel;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+     }
+
+     .h1{
+      /* font-size: 70px; */
+      font-weight: bolder;
+     }
+
+     .sec2{
+      background-image: url(Brisket_Web.jpg);
+      background-position: center;
+      background-color: black;
+    }
+
+
+
+
+     .inbox4{
+      text-align: center;
+      color: aliceblue;
+      margin-top: 100px;
+      font-size: larger;
+    }
+
+    .trans{
+      background-color: rgba(0, 0, 0, 0.746);
+    }
+
+    .para{
+      color:white;
+      text-align: center;
+      margin-top: 10px;
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .line1{
+      background-color: rgb(240, 162, 106);
+      height: 1px;
+      width: 50%;
+      margin-bottom: 15px;
+      margin-left: auto;
+    }
+
+    .line3{
+      background-color: rgb(223, 143, 87);
+      height: 1px;
+      width: 50%;
+      margin-bottom: 15px;
+    }
+
+    .line2{
+      background-color: rgb(235, 157, 101);
+      height: 1px;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+
+    .inbox5{
+      display: flex;
+      height: 300px;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .inbox6{
+      display: flex;
+      height: 300px;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+
+    .sec3{
+      background-image: url(open-spacious-dining.jpg);
+      background-position: center;
+      /* height: 600px; */
+      background-size: cover
+    }
+    .inbox7{
+      text-align: center;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    .local{
+      font-family: sans-serif;
+      font-weight: bolder;
+      /* font-size: 60px; */
+      color: white;
+      text-align: center;
+      margin-top: 200px;
+
+    }
+
+    .line{
+      background-color: aliceblue;
+      height: 3px;
+      width: 75%;
+      /* margin-bottom: 15px; */
+
+
+    }
+
+    .p1{
+      color: aliceblue;
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+
+    .sec4{
+      background-image: url(4rivers2.jpg);
+      background-size: cover;
+      opacity: 2;
+      z-index: 100px;
+      height: 600px;
+
+    }
+
+    .wee{
+      border: 2px double white;
+      border-radius: 60%;
+
+    }
+
+    .inbox8{
+
+      text-align: center;
+      color: aliceblue;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    .h2{
+      font-size: 60px;
+      font-weight: bolder;
+     }
+
+
+     .sec5{
+      background-image: url(A3GCKXLID5BKXF25ZGJSC2PQFY.webp);
+      background-position: center;
+      background-color: rgba(255, 255, 255, 0.247);
+    }
+
+    .inbox9{
+      text-align: center;
+      color: aliceblue;
+      margin-top: 100px;
+      font-size: larger;
+    }
+
+    .inbox10{
+      display: flex;
+      height: 300px;
+      justify-content: center;
+      flex-direction: column;
+    }
+    .inbox11{
+      display: flex;
+      height: 300px;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .line4{
+      background-color: rgb(11, 11, 11);
+      height: 1px;
+      width: 50%;
+      margin-bottom: 15px;
+      margin-left: auto;
+    }
+
+    .line6{
+      background-color: rgb(10, 10, 10);
+      height: 1px;
+      width: 50%;
+      margin-bottom: 15px;
+    }
+
+    .line5{
+      background-color: rgb(17, 17, 17);
+      height: 1px;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+
+    .trans2{
+      background-color: rgba(218, 241, 243, 0.786);
+    }
+
+    .para5{
+      color: rgb(4, 8, 12);
+      text-align: center;
+      margin-top: 10px;
+      font-size: 15px;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .sec6{
+
+    }
+
+    .h3{
+        color: aliceblue;
+        font-size: 50px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+        margin-top: 100px;
+    }
+.cart{
+  font-size: 20px;
+   color: aliceblue;
+
+}
+
+
+    .p3{
+      color: blanchedalmond;
+      font-size: medium;
+      text-align: center;
+      font-weight: bolder;
+    }
+
+    .lines{
+      background-color: aliceblue;
+      height: 3px;
+      width: 75%;
+
+    }
+
+    .inbox12{
+
+      /* margin-bottom:50px ; */
+     
+      background-image: url(istockphoto-1046610394-612x612.jpg);
+     background-position: center;
+
+      background-size: cover;
+    }
+
+    .innerbox1{
+      height: 300px;
+      padding-bottom:50px ;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.348);
+    }
+
+    .sec7{
+      background-image: url(smiley.avif);
+      background-size: cover;
+
+     }
+
+
+
+
+    .riv{
+      border: 2px double white;
+      border-radius: 50%;
+     }
+
+     .inbox13{
+      text-align: center;
+      color: aliceblue;
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      margin-bottom: 20px;
+     }
+
+     .h4{
+      font-size: 50px;
+      font-weight: bolder;
+      text-align: center;
+     }
+
+
+     .sec8{
+      background-image: url(FAMM.jpg);
+      background-position: center;
+      background-color: rgba(219, 233, 99, 0.633);
+    }
+
+    .inbox14{
+      text-align: center;
+      color: aliceblue;
+      margin-top: 100px;
+      font-size: larger;
+    }
+
+    .inbox15{
+      display: flex;
+      height: 300px;
+      justify-content: center;
+      flex-direction: column;
+    }
+    .inbox16{
+      display: flex;
+      height: 300px;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .line7{
+      background-color: rgb(11, 11, 11);
+      height: 1px;
+      width: 50%;
+      margin-bottom: 15px;
+      margin-left: auto;
+    }
+
+    .line9{
+      background-color: rgb(10, 10, 10);
+      height: 1px;
+      width: 50%;
+      margin-bottom: 15px;
+    }
+
+    .line8{
+      background-color: rgb(17, 17, 17);
+      height: 1px;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+
+    .trans3{
+      background-color: rgba(241, 149, 106, 0.747);
+    }
+
+    .para6{
+      color: rgb(4, 8, 12);
+      text-align: center;
+      margin-top: 10px;
+      font-size: 15px;
+      font-weight: bold;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    .sec9{
+      background-image: url(john-rivers-bw.jpg);
+      background-position: center;
+      background-size: cover;
+
+    }
+
+    .inbox17{
+      text-align: center
+      min-height: 600px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+
+
+    }
+
+    .h5{
+      font-size: 50px;
+      font-weight: bolder;
+      text-align: center;
+      color: aliceblue;
+      margin-top: 70px;
+     }
+
+     .p5{
+      color: blanchedalmond;
+      font-size: medium;
+      text-align: center;
+      font-weight: bolder;
+    }
+
+    .linep{
+      background-color: aliceblue;
+      height: 3px;
+      width: 80%;
+      /* margin-bottom: 15px; */
+      margin: auto;
+    }
+
+    .sec10{
+      background-color: rgba(0, 0, 0, 0.658);
+    }
+
+    .inbox18{
+      margin-top: 40px;
+/* position: relative; */
+
+
+    }
+
+    .inbox18{
+      /* position: absolute; */
+      background-image: url(4-rivers\ \(1\).png);
+      background-size: cover;
+      margin-bottom: 20px;
+    }
+  .innerbox{
+    height: 275px;
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      background-color: rgba(0, 0, 0, 0.597);
+  }
+    .inbox19{
+      color: aliceblue;
+      font-size: medium;
+      margin-top: 30px;
+      /* font-weight: bolder; */
+      text-align: center;
+
+
+    }
+
+    .pp{
+      color: aliceblue;
+      text-align: center;
+      margin-top: 10px;
+
+    }
+
+
+    .inbox20{
+      color: aliceblue;
+      font-size: medium;
+      font-weight: bold;
+      text-align: center;
+   margin-top: 30px;
+
+    }
+
+    .inbox21{
+      color: aliceblue;
+      font-size: small;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .hh{
+      font-size: medium;
+    }
+
+    .rr{
+      font-size: medium;
+    }
+
+
+    .CC{
+      font-size: medium;
+    }
+
+    .sec11{
+      background-color: rgba(0, 0, 0, 0.925);
+    }
+
+.inbox22{
+color: rgba(240, 248, 255, 0.685);
+}
+
+.inbox23{
+  text-align: right;
+  color: rgba(247, 185, 71, 0.603);
+}
+
+
+/* @media(max-width:768px){
+  .inbox,.inbox1,.inbox2,{
+    width: 50px;
+  }
+  .inbox21.inbox13{
+    width: 100px;
+  }
+
+}
+
+@media(max-width:468px){
+  .inbox,.inbox1,.inbox2,.inbox13{
+    width: 100%;
+  }
+
+  para3{
+    text-align: center;
+  }
+} */
+
+@media(max-width:468px){
+  .local{
+    /* font-size: 40px; */
+  }
+
+  .h5{
+    font-size: 30px;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
